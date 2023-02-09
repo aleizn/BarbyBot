@@ -22,8 +22,8 @@ let speed = neww - old
 let info = `
 ╠═〘 𝐈𝐍𝐅𝐎 𝐃𝐄𝐋 𝐁𝐎𝐓 〙 ═
 ╠
-╠➢ [🤴🏻] *CREADOR: Ale*
-╠➢ [#️⃣] *NUMERO: +54 9 387 822 4071*
+╠➢ [🤴🏻] *CREADOR: Barbara*
+╠➢ [#️⃣] *NUMERO: +54 9 11 6019-4546*
 ╠➢ [🎳] *PREFIJO: ${usedPrefix}*
 ╠➢ [🔐] *CHATS PRIVADOS: ${chats.length - groups.length}*
 ╠➢ [🦜] *CHAT DE GRUPOS: ${groups.length}* 
@@ -40,7 +40,7 @@ let info = `
 ╠➢ [👨‍🦯] *VELOCIDAD*: 
 ╠  *${speed} ms* 
 ╠
-╠═〘 𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃 〙 ═
+╠═〘 𝐁𝐚𝐫𝐛𝐲‧𝐁𝐨𝐭 〙 ═
 `.trim() 
 conn.sendButton(m.chat, info, wm, pp, [
 ['📦 𝐆𝐑𝐔𝐏𝐎𝐒', '#grupos'],
